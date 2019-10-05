@@ -34,4 +34,4 @@ In the `/posts_react` directory, you can run:
 
 > `npm start` or `yarn start`
 
-This starts the app at [http://localhost:3001](http://localhost:3001)
+This starts the app at [http://localhost:3000](http://localhost:3000)
